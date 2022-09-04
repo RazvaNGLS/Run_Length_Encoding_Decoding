@@ -8,10 +8,10 @@ Unfortunately, it only compresses within strict and special cases. Outside of th
 In order to implement this algorithm, the following steps should be considered:
 
 1. Declare the INPUT DATA:
-  * Matrix width (integer)
-  * Matrix height (integer)
-  * Number of different characters (integer)
-  * The used letters (char array)
+>* Matrix width (integer)
+>* Matrix height (integer)
+>* Number of different characters (integer)
+>* The used letters (char array)
 
 2. Generate random INPUT DATA to be ENCODED:
 * Create a random matrix (Matrix width * Matrix height values), that will be used as input data
