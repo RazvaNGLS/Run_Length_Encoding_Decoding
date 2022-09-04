@@ -3,7 +3,7 @@ Run-Length Encoding (RLE) is one of the oldest algorithms for data-compression a
 It compresses by looking at the data for repetitions of the same character in a row and storing the amount and the respective character as target-data.
 Unfortunately, it only compresses within strict and special cases. Outside of these cases, it increases the data-size, even doubles the size in worst cases compared to the original, unprocessed data
 
->>![RLE_encode](https://iq.opengenus.org/content/images/2020/04/rleimg--1-.png)
+![RLE_encode](https://iq.opengenus.org/content/images/2020/04/rleimg--1-.png)
 
 In order to implement this algorithm, the following steps should be considered:
 
