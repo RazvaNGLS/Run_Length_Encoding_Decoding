@@ -4,7 +4,7 @@ It compresses by looking at the data for repetitions of the same character in a 
 Unfortunately, it only compresses within strict and special cases. Outside of these cases, it increases the data-size, even doubles the size in worst cases compared to the original, unprocessed data
 
 <p align="center">
-  <img width="355" height="229" src="[https://iq.opengenus.org/content/images/2020/04/rleimg--1-.png">
+  <img width="355" height="229" src="https://iq.opengenus.org/content/images/2020/04/rleimg--1-.png">
 </p>
 
 ![RLE_encode](https://iq.opengenus.org/content/images/2020/04/rleimg--1-.png)
