@@ -34,8 +34,14 @@ In order to implement this algorithm, the following steps should be considered:
 
 ## Usage
 
+Use the Makefile in order to run both recursive and iterative, optimized and unoptimized versions of the Merge Sort algorithm.
 
-## Contributiong
+```bash
+make
+```
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 
 
