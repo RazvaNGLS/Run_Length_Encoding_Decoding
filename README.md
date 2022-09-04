@@ -14,6 +14,7 @@ In order to implement this algorithm, the following steps should be considered:
 >* Matrix height (integer)
 >* Number of different characters (integer)
 >* The used letters (char array)
+>* Modify filepaths of input_data.txt , encoded_data.txt , decoded_data.txt
 
 ## Generate random INPUT DATA to be ENCODED:
 >* Create a random matrix (Matrix width * Matrix height values), that will be used as input data
