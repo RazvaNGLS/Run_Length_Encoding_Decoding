@@ -7,8 +7,6 @@ Unfortunately, it only compresses within strict and special cases. Outside of th
   <img width="355" height="229" src="https://iq.opengenus.org/content/images/2020/04/rleimg--1-.png">
 </p>
 
-![RLE_encode](https://iq.opengenus.org/content/images/2020/04/rleimg--1-.png)
-
 In order to implement this algorithm, the following steps should be considered:
 
 ## Declare the INPUT DATA:
