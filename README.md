@@ -14,13 +14,14 @@ In order to implement this algorithm, the following steps should be considered:
 >* The used letters (char array)
 
 2. Generate random INPUT DATA to be ENCODED:
-* Create a random matrix (Matrix width * Matrix height values), that will be used as input data
-* Save the input data in a text file (input_data.txt)
+>* Create a random matrix (Matrix width * Matrix height values), that will be used as input data
+>* Save the input data in a text file (input_data.txt)
 
-3. ENCODE using RLE:
-* Function looks at the data for repetitions of the same character in a row and stores the number of repetitions and the respective character
-Write the encoded data in a text file (encoded_data.txt)
+3. ENCODE function:
+>* Function looks at the data for repetitions of the same character in a row and stores the number of repetitions and the respective character
+>* Write the encoded data in a text file (encoded_data.txt)
 
+4. DECODE function
 
 
 
