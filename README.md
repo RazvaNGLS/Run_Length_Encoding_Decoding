@@ -8,7 +8,7 @@ Unfortunately, it only compresses within strict and special cases. Outside of th
 </p>
 
 <p align="center">
-  <img width="675" height="450" src="https://iq.opengenus.org/content/images/2020/04/rleimg--1-.png">
+  <img width="600" height="400" src="https://iq.opengenus.org/content/images/2020/04/rleimg--1-.png">
 </p>
 
 In order to implement this algorithm, the following steps should be considered:
