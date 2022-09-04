@@ -32,7 +32,10 @@ In order to implement this algorithm, the following steps should be considered:
 >* Check the execution time of encoding and decoding for unoptimized and optimized code
 >* Check the size of input data, encoded data and decoded data
 
+## Usage
 
+
+## Contributiong
 
 
 
