@@ -35,7 +35,7 @@ In order to implement this algorithm, the following steps should be considered:
 
 ## Usage
 
-Use the Makefile in order to run both recursive and iterative, optimized and unoptimized versions of the Merge Sort algorithm.
+Use the Makefile in order to run both, optimized and unoptimized versions of the Run-Length Encoding algorithm.
 
 ```bash
 make
